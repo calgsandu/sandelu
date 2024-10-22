@@ -1,0 +1,2 @@
+# sandelu
+set up git
